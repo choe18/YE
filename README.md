@@ -8,5 +8,5 @@
 ![Eun](https://img.shields.io/badge/Eun-%23D00000.svg?style=for-the-badge&logo=Eun&logoColor=white)
 
 <div align="center">
-:seeding: stack </br>
+:seedling: stack </br>
 <hr>
